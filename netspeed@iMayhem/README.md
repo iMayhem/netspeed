@@ -5,6 +5,10 @@ A lightweight, text-only network speed applet for Linux Mint Cinnamon.
 Net Speed displays real-time download and upload speeds directly on the panel,
 without icons, menus, or hover interactions.
 
+
+<img width="1366" height="768" alt="screenshot" src="https://github.com/user-attachments/assets/26db130a-cd0f-494b-97a3-c36c12bdd90b" />
+
+
 ## Features
 - Text-only display on the Cinnamon panel
 - Real-time download (↓) and upload (↑) speed
